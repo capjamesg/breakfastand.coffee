@@ -1,0 +1,18 @@
+https://breakfastand.coffee200_Degrees_Coffee_-_Sheffield
+
+{{
+            Infobox
+            |location=Sheffield, United Kingdom
+            |lat=53.38018651151216
+            |long=-1.4733094296317242
+            |address=Division Street, S1 4GF Sheffield, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/sheffield/200-degrees-coffee/' class='p-name'>200 Degrees Coffee - Sheffield</a> by jamesg.blog - <data value='4' class='p-rating'>4 stars</data> ===
+<blockquote>Review 		I love 200 Degrees Coffee, they always serve great coffee.</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>200 Degrees Coffee - Sheffield</span> aggregate review: <data value='4' class='p-average'>4</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>
