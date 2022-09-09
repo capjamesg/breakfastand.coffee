@@ -1,0 +1,3 @@
+https://breakfastand.coffeeTemplate%3Anewpage
+
+#REDIRECT [[MediaWiki:Preload-namespace-0]]
