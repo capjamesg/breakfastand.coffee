@@ -1,0 +1,75 @@
+https://breakfastand.coffeewikify
+
+<dfn>wikifying</dfn> is when you create a new wiki page to describe a coffee shop or breakfast spot on Breakfast and Coffee.
+
+== Creating an Account ==
+
+You will need an account to contribute to Breakfast and Coffee. To create an account, click "Log in" in the top-right corner of any page on the wiki.
+
+== Creating a Page from the Wiki ==
+
+Before you create a page on the wiki, search to see if the page you want to create already exists. You can do this using the wiki search bar.
+
+If the page you want to create does not exist, click "create" in the search results. This will take you to an editor page where you can add your contents.
+
+All entries must contain at least one paragraph of text.
+
+It is recommended that all page about a coffee shop or a breakfast spot contain the following sections:
+
+* A definition
+* An About section
+* A Community Recommendations section where members of the wiki can add recommendations
+
+== Templates ==
+
+=== Wiki Template ===
+
+If you are using the advanced wiki editor, you can use this template to get started:
+
+<pre>
+
+<dfn>[page-title]</dfn> [description-of-thing].
+
+== About ==
+
+== Community Recommendations ==
+
+* add yourself...
+
+== Facts ==
+
+== See Also ==
+
+</pre>
+
+=== HTML Template ===
+
+If you are creating a new wiki page on your website, you can use the following template to get started:
+
+<pre>
+
+<section class="h-entry">
+<h1 class="p-name">[page-title]</h1>
+
+<dfn>[page-title]</dfn> [description-of-thing].
+
+<h2>About</h2>
+
+<h2>Community Recommendations</h2>
+
+<ul>
+    <li>add yourself...</li>
+</ul>
+
+<h2>Facts</h2>
+
+<h2>See Also</h2>
+
+<ul>
+    <li>...</li>
+</ul>
+
+<span class="p-category">[category name]</span>
+</section>
+
+</pre>
