@@ -1,0 +1,13 @@
+https://breakfastand.coffeecities
+
+This '''cities''' page lists all of the cities for which at least breatfast and/or coffee establishment entry has been added to the wiki.
+
+== Cities ==
+
+* [[:Category:Edinburgh]]
+* [[:Category:Manchester]]
+* [[:Category:City of London]]
+* [[:Category:Berlin]]
+* [[:Category:Sheffield]]
+* [[:Category:York]]
+* [[:Category:Glasgow]]
