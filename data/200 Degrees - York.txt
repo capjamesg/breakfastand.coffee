@@ -1,0 +1,18 @@
+https://breakfastand.coffee200_Degrees_-_York
+
+{{
+            Infobox
+            |location=York, United Kingdom
+            |lat=53.9607323
+            |long=-1.0809611
+            |address=Low Petergate, YO1 7HZ York, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/york/200-degrees/' class='p-name'>200 Degrees - York</a> by jamesg.blog - <data value='4' class='p-rating'>4 stars</data> ===
+<blockquote>Review 		Spacious cafe, great coffee</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>200 Degrees - York</span> aggregate review: <data value='4' class='p-average'>4</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>
