@@ -1,0 +1,18 @@
+https://breakfastand.coffeeFortitude_Coffee_(Stockbridge)_-_Edinburgh
+
+{{
+            Infobox
+            |location=City of Edinburgh, United Kingdom
+            |lat=55.9591662
+            |long=-3.2070683
+            |address=Hamilton Place, EH3 5AZ City of Edinburgh, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/edinburgh/fortitude-coffee-stockbridge-/' class='p-name'>Fortitude Coffee (Stockbridge) - Edinburgh</a> by jamesg.blog - <data value='4' class='p-rating'>4 stars</data> ===
+<blockquote>Review 		Excellent coffee</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>Fortitude Coffee (Stockbridge) - Edinburgh</span> aggregate review: <data value='4' class='p-average'>4</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:City of Edinburgh]][[Category:United Kingdom]]
