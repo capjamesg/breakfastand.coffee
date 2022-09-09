@@ -1,0 +1,18 @@
+https://breakfastand.coffeeThe_Barn_(Mitte)_-_Berlin
+
+{{
+            Infobox
+            |location=Berlin, Deutschland
+            |lat=52.52745810864866
+            |long=13.398231386508309
+            |address=Auguststraße, 10119 Berlin, Deutschland
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/berlin/the-barn-mitte-/' class='p-name'>The Barn (Mitte) - Berlin</a> by jamesg.blog - <data value='5' class='p-rating'>5 stars</data> ===
+<blockquote>Review 		I had an amazing nitro coffee here, peaceful location, small inside</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>The Barn (Mitte) - Berlin</span> aggregate review: <data value='5' class='p-average'>5</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:Berlin]][[Category:Deutschland]]
