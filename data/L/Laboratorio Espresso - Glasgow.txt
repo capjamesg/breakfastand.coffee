@@ -1,0 +1,18 @@
+https://breakfastand.coffeeLaboratorio_Espresso_-_Glasgow
+
+{{
+            Infobox
+            |location=Glasgow, United Kingdom
+            |lat=55.8631864
+            |long=-4.2547772
+            |address=West Nile Street, G1 2SD Glasgow, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/glasgow/laboratorio-espresso/' class='p-name'>Laboratorio Espresso - Glasgow</a> by jamesg.blog - <data value='5' class='p-rating'>5 stars</data> ===
+<blockquote>Review 		Great baked goods, cannolis, coffee</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>Laboratorio Espresso - Glasgow</span> aggregate review: <data value='5' class='p-average'>5</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:Glasgow]][[Category:United Kingdom]]
