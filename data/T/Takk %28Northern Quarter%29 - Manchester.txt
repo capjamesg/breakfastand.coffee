@@ -1,0 +1,18 @@
+https://breakfastand.coffeeTakk_(Northern_Quarter)_-_Manchester
+
+{{
+            Infobox
+            |location=Manchester, United Kingdom
+            |lat=53.4811345
+            |long=-2.23246
+            |address=Tariff Street, M1 2FF Manchester, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/manchester/takk-northern-quarter-/' class='p-name'>Takk (Northern Quarter) - Manchester</a> by jamesg.blog - <data value='5' class='p-rating'>5 stars</data> ===
+<blockquote>Review 		Digital ordering available in the cafe, delicious coffees</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>Takk (Northern Quarter) - Manchester</span> aggregate review: <data value='5' class='p-average'>5</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:Manchester]][[Category:United Kingdom]]
