@@ -1,0 +1,18 @@
+https://breakfastand.coffeeSouthern_Cross_Cafe_-_Edinburgh
+
+{{
+            Infobox
+            |location=City of Edinburgh, United Kingdom
+            |lat=55.9506408
+            |long=-3.1885864
+            |address=Cockburn Street, EH1 1BU City of Edinburgh, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/edinburgh/southern-cross-cafe/' class='p-name'>Southern Cross Cafe - Edinburgh</a> by jamesg.blog - <data value='5' class='p-rating'>5 stars</data> ===
+<blockquote>Review 		Good coffee, amazing scones</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>Southern Cross Cafe - Edinburgh</span> aggregate review: <data value='5' class='p-average'>5</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:City of Edinburgh]][[Category:United Kingdom]]
