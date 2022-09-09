@@ -1,0 +1,17 @@
+https://breakfastand.coffeeposting
+
+'''<dfn>posting</dfn>'' refers to creating an entry on the wiki.
+
+== Posting a Review ==
+
+To post a review on Breakfast and Coffee, first create a [https://indieweb.org/h-review h-review] on your personal website. This review should include:
+
+* the name of the eatery you are reviewing
+* a star rating between 1 and 5
+* optionally, a description of the place you are reviewing
+
+Please include the name of the city where the eatery is located in the title of your review. This helps disambiguate between eateries that share the same name.
+
+You may also embed a [https://microformats.org/wiki/h-geo h-geo] object into your review with the latitude and longitude of the eatery you are reviewing. This will be turned into a special box with an OpenStreetMap map for the eatery. This only happens if you are creating a review for an eatery that does not yet exist on this website.
+
+Once you have posted your review on your personal website, send a [https://indieweb.org/Webmention Webmention] to https://breakfastand.coffee. The wiki will thenn take your review and turn it into a wiki page or add it to an existing wiki page.
