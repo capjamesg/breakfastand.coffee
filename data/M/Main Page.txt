@@ -1,0 +1,44 @@
+https://breakfastand.coffeeMain_Page
+
+== Breakfast and Coffee ==
+
+'''This wiki is currently in early development.'''
+
+Breakfast and Coffee is a place to share your recommendations for the best breakfast and coffee places you visit.
+
+On this wiki, you will find information about cafes, coffee shops, and eateries that might be worth visiting.
+
+Do you have a recommendation that you would like to share with the world? Create an account and start or edit a page.
+
+== Newest Additions ==
+
+Here are the five newest cafes added to Breakfast and Coffee:
+
+{{Special:Newestpages/-/5}}
+
+== Why ==
+
+Finding recommendations for new breakfast and coffee stops in a city or area can be difficult, especially if you know only a few people from the place you are visiting.
+
+Breakfast and Coffee aggregates recommendations and information about eateries so you can find places to visit when you're visitng an area.
+
+Breakfast and Coffee aims to highlight exemplerary establishments, with reference to factors that matter when you're making a choice about where to eat or drink in a city. This is not a community to share negative experiences about eateries or coffee houses.
+
+== Contributing ==
+
+Anyone can contribute to the Breakfast and Coffee wiki.
+
+There are two ways to start contributing:
+
+* Sign in with your domain name IndieAuth.
+* Create an account with your email address.
+
+When you join, you can start to make changes to the wiki. You might want to:
+
+* Add a new page about a cafe or eatery where you have had many positive experiences.
+* Improve an existing page about an eatery or location. This may include adding your own experience at an eatery or location, adding information about things to do nearby, or anything else you think will improve a page.
+* Translate an existing page into a language you feel comfortable with.
+
+=== Contact Information ===
+
+This wiki is maintained by {{capjamesg}}. You can find his site at [https://jamesg.blog jamesg.blog].
