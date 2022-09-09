@@ -1,0 +1,38 @@
+https://breakfastand.coffeeLowdown_Coffee
+
+'''Lowdown Coffee''' is a speciality coffee shop situated in the heart of Edinburgh, a common recommendation among speciality coffee enthustiasts in the city.
+
+{{Infobox
+|location=Edinburgh, Scotland
+|lat=55.9532036
+|long=-3.1979048
+|address=40 George St, Edinburgh EH2 2LE
+|indoor_seating=yes
+}}
+
+
+== About Lowdown Coffee ==
+
+Lowdown is one of the most well-known speciality coffee shops in Edinburgh. Its cafe has a minimalist style, inspired by Japanese design, and has invested a lot of time curating their coffee and food menu. Lowdown is the perfect place to grab a delicious coffee and has many breakfast, brunch, and lunch food options that are available throughout the day.
+
+== Approach to Speciality Coffee ==
+
+Lowdown Coffee sources coffee from roasters across Scotland, the United Kingdom and Europe. Roasters commonly seen in their offerings include Hundred House Coffee, Manhattan Coffee Roasters, Obadiah Coffee, and more.
+
+Lowdown takes pride in highlighting special coffees, where "special" can refer to any unique characteristic about the coffee. This is clear from their meticulously-crafted menu and the detailed information baristas are able to provide about the coffees they serve.
+
+== Community Recommendations ==
+
+* {{capjamesg}} recommends Lowdown to anyone who is visiting Edinburgh. He has had many positive interactions at Lowdown and aims to stop by most times he is visting the city.
+* Add yourself here...
+
+== Facts About Lowdown ==
+
+* Offers retail coffee on a shelf right next to their ordering counter.
+* Is a relatively small coffee shop so probably not the ideal place to work for the day if you're a remote worker.
+* The coffee preparation area is in the main room and is not behind a bar. This means you can see everything going on when coffee is made from most of the indoor seats.
+
+== See Also ==
+
+* {{capjamesg}} interviewed the owner of Lowdown Coffee for his blog.
+** https://jamesg.blog/2021/01/27/coffee-chat-with-lowdown-coffee/

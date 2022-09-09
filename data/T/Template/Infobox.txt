@@ -1,0 +1,17 @@
+https://breakfastand.coffeeTemplate%3AInfobox
+
+<div class="infobox">
+<div class="infobox-title">{{{title|{{PAGENAME}}}}}</div>{{#if:{{{lat|}}}|
+<div class="infobox-image">{{#multimaps: {{{lat}}}, {{{long}}} }}</div>}}
+<table>{{#if:{{{location|}}}|<tr>
+    <th>Location</th>
+    <td>{{{location}}}</td>
+</tr>}}{{#if:{{{indoor_seating|}}}|<tr>
+    <th>Offers Indoor Seating?</th>
+    <td>{{{indoor_seating}}}</td>
+</tr>}}{{#if:{{{address|}}}|<tr>
+    <th>Address</th>
+    <td>{{{address}}}</td>
+</tr>}}
+</table>
+</div>
