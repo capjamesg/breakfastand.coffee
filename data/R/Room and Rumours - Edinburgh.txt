@@ -1,0 +1,18 @@
+https://breakfastand.coffeeRoom_and_Rumours_-_Edinburgh
+
+{{
+            Infobox
+            |location=City of Edinburgh, United Kingdom
+            |lat=55.9514165
+            |long=-3.1850883
+            |address=East Market Street, EH8 8FS City of Edinburgh, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/edinburgh/room-and-rumours/' class='p-name'>Room and Rumours - Edinburgh</a> by jamesg.blog - <data value='4' class='p-rating'>4 stars</data> ===
+<blockquote>Review 		Great donuts, close to the train station</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>Room and Rumours - Edinburgh</span> aggregate review: <data value='4' class='p-average'>4</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:City of Edinburgh]][[Category:United Kingdom]]
