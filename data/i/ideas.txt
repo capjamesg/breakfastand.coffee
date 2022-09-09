@@ -1,0 +1,22 @@
+https://breakfastand.coffeeideas
+
+This '''<dfn>ideas</dfn>''' page is for documenting ideas on how to improve the Breakfast and Coffee wiki.
+
+== Adding Review Functionality ==
+
+* show aggregate reviews at the top of cafe pages
+* show list of reviews that you can create via webmention
+
+== Adding Maps ==
+
+* show maps for each location, if lat and long are provided [DONE]
+* add address from Nomatim / OSM? [DONE]
+* show maps on category pages with all of the cafes in a location
+
+== Other ideas ==
+
+* add ideas here...
+
+== See Also ==
+
+* [https://breakfastand.coffee Homepage]
