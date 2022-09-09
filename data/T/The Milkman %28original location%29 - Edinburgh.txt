@@ -1,0 +1,18 @@
+https://breakfastand.coffeeThe_Milkman_(original_location)_-_Edinburgh
+
+{{
+            Infobox
+            |location=City of Edinburgh, United Kingdom
+            |lat=55.9507045
+            |long=-3.1908901
+            |address=Cockburn Street, EH1 1BP City of Edinburgh, United Kingdom
+            }}
+
+<div class='h-feed'>
+== Reviews ==
+
+<div class='h-review'>
+=== <a href='https://jamesg.blog/checkins/edinburgh/the-milkman-original-location-/' class='p-name'>The Milkman (original location) - Edinburgh</a> by jamesg.blog - <data value='3' class='p-rating'>3 stars</data> ===
+<blockquote>Review 		Excellent coffee and baked goods</blockquote></div>
+<div class='h-review-aggregate'><span class='p-item'>The Milkman (original location) - Edinburgh</span> aggregate review: <data value='3' class='p-average'>3</data>/<data value='5' class='p-best'>5</data> (<data value='1' class='p-votes'>1</data> rating)
+{{addyourself}}</div>[[Category:City of Edinburgh]][[Category:United Kingdom]]
